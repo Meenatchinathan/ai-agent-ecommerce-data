@@ -1,3 +1,5 @@
+
+# VIDEO LINK: https://drive.google.com/file/d/1JjKKBNfwVuRFei2Xh0eTJN38dJ64WdSf/view?usp=sharing
 # 🛍️ E-commerce AI Agent
 
 This project implements an **AI agent** that answers natural language questions about e-commerce data by converting them to SQL queries. The system uses a **local LLM (Mistral-7B)** for query generation and provides both **API** and **CLI** interfaces.
