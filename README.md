@@ -104,6 +104,3 @@ LLM_GPU_LAYERS=1  # Set to 0 for CPU-only
 - For M1/M2 Mac users:  
 Run `CMAKE_ARGS="-DLLAMA_METAL=on" pip install --force-reinstall llama-cpp-python`
 
-## 📄 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
